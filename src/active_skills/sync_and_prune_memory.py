@@ -1,1 +1,0 @@
-/Users/hamednejat/workspace/Computational/cli_tools/memory_manager.py
