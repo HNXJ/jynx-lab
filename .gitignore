@@ -6,3 +6,6 @@ __pycache__/
 *.log
 *.err
 *.out
+*.token
+*.pyc
+.DS_Store
